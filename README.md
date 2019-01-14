@@ -1,0 +1,1 @@
+This is MachineShot's first git project!
